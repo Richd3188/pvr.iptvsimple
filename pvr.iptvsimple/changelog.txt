@@ -1,3 +1,6 @@
+v22.4.0
+- Set backend position for channel groups
+
 v22.3.1
 - Take account of whitespace at end of xmltv file while doing format check
 
