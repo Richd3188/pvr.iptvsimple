@@ -408,7 +408,7 @@ Here’s some examples of how the different formats would look:
 #### M3U format elements:
 
 ```
-#EXTM3U tvg-shift="-4.5" x-tvg-url="http://path-to-xmltv/guide.xml catchup-correction="-2.5"
+#EXTM3U tvg-shift="-4.5" x-tvg-url="http://path-to-xmltv/guide.xml" catchup-correction="-2.5"
 #EXTINF:0 tvg-id="channel-x" tvg-name="Channel_X" group-title="Entertainment" tvg-chno="10" tvg-logo="http://path-to-icons/channel-x.png" radio="true" tvg-shift="-3.5",Channel X
 #EXTVLCOPT:program=745
 #KODIPROP:key=val
