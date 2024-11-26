@@ -1,4 +1,4 @@
-name: Build and run tests
+matrix.CCname: Build and run tests
 on: [push, pull_request]
 env:
   app_id: pvr.iptvsimple
